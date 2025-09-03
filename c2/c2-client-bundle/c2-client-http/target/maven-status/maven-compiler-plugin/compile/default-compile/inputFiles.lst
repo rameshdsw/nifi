@@ -1,0 +1,8 @@
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/C2HttpClient.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/C2RequestCompression.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/C2ServerException.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/OkHttpClientProvider.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/url/C2UrlProvider.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/url/C2UrlProviderFactory.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/url/LegacyC2UrlProvider.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/main/java/org/apache/nifi/c2/client/http/url/ProxyAwareC2UrlProvider.java

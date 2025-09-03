@@ -1,0 +1,23 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+c2-protocol-component-api
+
+
+From: 'an unknown organization'
+
+  - swagger-annotations (https://github.com/swagger-api/swagger-core/modules/swagger-annotations) io.swagger.core.v3:swagger-annotations:jar:2.2.30
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org)
+
+  - nifi-api (https://nifi.apache.org) org.apache.nifi:nifi-api:jar:2.1.0
+    License: Apache License 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+

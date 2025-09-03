@@ -1,0 +1,15 @@
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/C2HeartbeatFactoryTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/C2HeartbeatManagerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/C2OperationManagerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/ManifestHashProviderTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/C2OperationHandlerProviderTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/DescribeManifestOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/EmptyOperandPropertiesProviderTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/StartFlowOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/StopFlowOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/SupportedOperationsProviderTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/SyncResourceOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/TransferDebugOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/UpdateAssetOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/UpdateConfigurationOperationHandlerTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-service/src/test/java/org/apache/nifi/c2/client/service/operation/UpdatePropertiesOperationHandlerTest.java

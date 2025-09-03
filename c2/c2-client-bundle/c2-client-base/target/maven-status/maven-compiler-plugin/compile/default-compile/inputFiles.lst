@@ -1,0 +1,8 @@
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/client/C2ClientConfig.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/client/IdGenerator.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/client/PersistentUuidGenerator.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/serializer/C2JacksonSerializer.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/serializer/C2Serializer.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/serializer/OperandTypeDeserializer.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/util/FileUtils.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-base/src/main/java/org/apache/nifi/c2/util/Preconditions.java

@@ -1,0 +1,5 @@
+org/apache/nifi/c2/client/http/C2HttpClientTest.class
+org/apache/nifi/c2/client/http/url/LegacyC2UrlProviderTest.class
+org/apache/nifi/c2/client/http/url/C2UrlProviderFactoryTest.class
+org/apache/nifi/c2/client/http/url/ProxyAwareC2ProviderTest.class
+org/apache/nifi/c2/client/http/C2RequestCompressionTest.class

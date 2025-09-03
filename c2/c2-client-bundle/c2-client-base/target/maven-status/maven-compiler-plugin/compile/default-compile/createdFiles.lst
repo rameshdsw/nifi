@@ -1,0 +1,9 @@
+org/apache/nifi/c2/serializer/OperandTypeDeserializer.class
+org/apache/nifi/c2/client/C2ClientConfig.class
+org/apache/nifi/c2/serializer/C2Serializer.class
+org/apache/nifi/c2/util/FileUtils.class
+org/apache/nifi/c2/client/IdGenerator.class
+org/apache/nifi/c2/client/C2ClientConfig$Builder.class
+org/apache/nifi/c2/serializer/C2JacksonSerializer.class
+org/apache/nifi/c2/client/PersistentUuidGenerator.class
+org/apache/nifi/c2/util/Preconditions.class

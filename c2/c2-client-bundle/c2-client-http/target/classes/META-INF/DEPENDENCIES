@@ -1,0 +1,89 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+c2-client-http
+
+
+From: 'an unknown organization'
+
+  - okhttp-logging-interceptor (https://square.github.io/okhttp/) com.squareup.okhttp3:logging-interceptor:jar:4.12.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - okhttp (https://square.github.io/okhttp/) com.squareup.okhttp3:okhttp:jar:4.12.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - okio (https://github.com/square/okio/) com.squareup.okio:okio:jar:3.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - okio (https://github.com/square/okio/) com.squareup.okio:okio-jvm:jar:3.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - swagger-annotations (https://github.com/swagger-api/swagger-core/modules/swagger-annotations) io.swagger.core.v3:swagger-annotations:jar:2.2.30
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+  - IntelliJ IDEA Annotations (http://www.jetbrains.org) org.jetbrains:annotations:jar:13.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Kotlin Stdlib (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib:jar:2.1.20
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Kotlin Stdlib Jdk7 (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:2.1.20
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Kotlin Stdlib Jdk8 (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:2.1.20
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org)
+
+  - nifi-api (https://nifi.apache.org) org.apache.nifi:nifi-api:jar:2.1.0
+    License: Apache License 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - c2-client-api (https://nifi.apache.org/c2/c2-client-bundle/c2-client-api) org.apache.nifi:c2-client-api:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - c2-client-base (https://nifi.apache.org/c2/c2-client-bundle/c2-client-base) org.apache.nifi:c2-client-base:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - c2-protocol-api (https://nifi.apache.org/c2/c2-protocol/c2-protocol-api) org.apache.nifi:c2-protocol-api:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - c2-protocol-component-api (https://nifi.apache.org/c2/c2-protocol/c2-protocol-component-api) org.apache.nifi:c2-protocol-component-api:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-security-ssl (https://nifi.apache.org/nifi-commons/nifi-security-ssl) org.apache.nifi:nifi-security-ssl:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'FasterXML' (http://fasterxml.com/)
+
+  - Jackson-annotations (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - jackson-databind (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+
+  - Apache Commons Lang (https://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.17.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
+

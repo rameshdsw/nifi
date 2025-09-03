@@ -1,0 +1,17 @@
+org/apache/nifi/c2/client/service/operation/UpdateAssetOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/C2OperationHandlerProviderTest$TestInvalidOperationHandler.class
+org/apache/nifi/c2/client/service/C2OperationManagerTest.class
+org/apache/nifi/c2/client/service/operation/DescribeManifestOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/UpdatePropertiesOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/C2OperationHandlerProviderTest$TestDescribeOperationHandler.class
+org/apache/nifi/c2/client/service/operation/TransferDebugOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/StartFlowOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/StopFlowOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/SyncResourceOperationHandlerTest.class
+org/apache/nifi/c2/client/service/C2HeartbeatFactoryTest.class
+org/apache/nifi/c2/client/service/C2HeartbeatManagerTest.class
+org/apache/nifi/c2/client/service/operation/EmptyOperandPropertiesProviderTest.class
+org/apache/nifi/c2/client/service/operation/UpdateConfigurationOperationHandlerTest.class
+org/apache/nifi/c2/client/service/operation/C2OperationHandlerProviderTest.class
+org/apache/nifi/c2/client/service/operation/SupportedOperationsProviderTest.class
+org/apache/nifi/c2/client/service/ManifestHashProviderTest.class

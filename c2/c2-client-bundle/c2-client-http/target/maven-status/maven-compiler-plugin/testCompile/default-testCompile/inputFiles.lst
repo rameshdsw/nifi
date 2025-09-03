@@ -1,0 +1,5 @@
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/test/java/org/apache/nifi/c2/client/http/C2HttpClientTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/test/java/org/apache/nifi/c2/client/http/C2RequestCompressionTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/test/java/org/apache/nifi/c2/client/http/url/C2UrlProviderFactoryTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/test/java/org/apache/nifi/c2/client/http/url/LegacyC2UrlProviderTest.java
+/home/mangal/Downloads/nifi/c2/c2-client-bundle/c2-client-http/src/test/java/org/apache/nifi/c2/client/http/url/ProxyAwareC2ProviderTest.java

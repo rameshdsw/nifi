@@ -1,0 +1,11 @@
+org/apache/nifi/c2/client/http/C2RequestCompression$1.class
+org/apache/nifi/c2/client/http/OkHttpClientProvider.class
+org/apache/nifi/c2/client/http/C2RequestCompression$2.class
+org/apache/nifi/c2/client/http/C2RequestCompression$2$1.class
+org/apache/nifi/c2/client/http/C2ServerException.class
+org/apache/nifi/c2/client/http/url/LegacyC2UrlProvider.class
+org/apache/nifi/c2/client/http/C2RequestCompression.class
+org/apache/nifi/c2/client/http/url/C2UrlProvider.class
+org/apache/nifi/c2/client/http/C2HttpClient.class
+org/apache/nifi/c2/client/http/url/C2UrlProviderFactory.class
+org/apache/nifi/c2/client/http/url/ProxyAwareC2UrlProvider.class
