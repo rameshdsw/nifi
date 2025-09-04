@@ -1,0 +1,149 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-toolkit-api
+
+
+From: 'an unknown organization'
+
+  - swagger-annotations (https://github.com/swagger-api/swagger-core/modules/swagger-annotations) io.swagger.core.v3:swagger-annotations:jar:2.2.30
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-web-api (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework-nar-bom/nifi-server-nar-bom/nifi-web-api) org.apache.nifi:nifi-web-api:war:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Eclipse Foundation' (https://www.eclipse.org)
+
+  - Jakarta Activation API (https://github.com/jakartaee/jaf-api) jakarta.activation:jakarta.activation-api:jar:2.1.3
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+  - Jakarta Annotations API (https://projects.eclipse.org/projects/ee4j.ca) jakarta.annotation:jakarta.annotation-api:jar:2.1.1
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: GPL2 w/ CPE  (https://www.gnu.org/software/classpath/license.html)
+
+  - Jakarta Dependency Injection (https://github.com/eclipse-ee4j/injection-api) jakarta.inject:jakarta.inject-api:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jakarta XML Binding API (https://github.com/jakartaee/jaxb-api/jakarta.xml.bind-api) jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.2
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+  - OSGi resource locator (https://projects.eclipse.org/projects/ee4j/osgi-resource-locator) org.glassfish.hk2:osgi-resource-locator:jar:1.0.3
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: GPL2 w/ CPE  (https://www.gnu.org/software/classpath/license.html)
+
+  - MIME streaming extension (https://github.com/eclipse-ee4j/metro-mimepull) org.jvnet.mimepull:mimepull:jar:1.9.15
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+
+From: 'Eclipse Foundation' (https://www.eclipse.org/org/foundation/)
+
+  - Jakarta RESTful WS API (https://github.com/eclipse-ee4j/jaxrs-api) jakarta.ws.rs:jakarta.ws.rs-api:bundle:3.1.0
+    License: EPL-2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: GPL-2.0-with-classpath-exception  (https://www.gnu.org/software/classpath/license.html)
+
+  - jersey-core-client (https://projects.eclipse.org/projects/ee4j.jersey/jersey-client) org.glassfish.jersey.core:jersey-client:jar:3.1.10
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: GPL2 w/ CPE  (https://www.gnu.org/software/classpath/license.html)
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+    License: BSD 2-Clause  (https://opensource.org/licenses/BSD-2-Clause)
+    License: Apache License, 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+    License: Public Domain  (https://creativecommons.org/publicdomain/zero/1.0/)
+    License: Modified BSD  (https://asm.ow2.io/license.html)
+    License: jQuery license  (jquery.org/license)
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+    License: W3C license  (https://www.w3.org/Consortium/Legal/copyright-documents-19990405)
+
+  - jersey-core-common (https://projects.eclipse.org/projects/ee4j.jersey/jersey-common) org.glassfish.jersey.core:jersey-common:jar:3.1.10
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: The GNU General Public License (GPL), Version 2, With Classpath Exception  (https://www.gnu.org/software/classpath/license.html)
+    License: Apache License, 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+    License: Public Domain  (https://creativecommons.org/publicdomain/zero/1.0/)
+
+  - jersey-ext-entity-filtering (https://projects.eclipse.org/projects/ee4j.jersey/project/jersey-entity-filtering) org.glassfish.jersey.ext:jersey-entity-filtering:jar:3.1.10
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: GPL2 w/ CPE  (https://www.gnu.org/software/classpath/license.html)
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+    License: BSD 2-Clause  (https://opensource.org/licenses/BSD-2-Clause)
+    License: Apache License, 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+    License: Public Domain  (https://creativecommons.org/publicdomain/zero/1.0/)
+    License: Modified BSD  (https://asm.ow2.io/license.html)
+    License: jQuery license  (jquery.org/license)
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+    License: W3C license  (https://www.w3.org/Consortium/Legal/copyright-documents-19990405)
+
+  - jersey-media-json-jackson (https://projects.eclipse.org/projects/ee4j.jersey/project/jersey-media-json-jackson) org.glassfish.jersey.media:jersey-media-json-jackson:jar:3.1.10
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: The GNU General Public License (GPL), Version 2, With Classpath Exception  (https://www.gnu.org/software/classpath/license.html)
+    License: Apache License, 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+  - jersey-media-multipart (https://projects.eclipse.org/projects/ee4j.jersey/project/jersey-media-multipart) org.glassfish.jersey.media:jersey-media-multipart:jar:3.1.10
+    License: EPL 2.0  (http://www.eclipse.org/legal/epl-2.0)
+    License: GPL2 w/ CPE  (https://www.gnu.org/software/classpath/license.html)
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+    License: BSD 2-Clause  (https://opensource.org/licenses/BSD-2-Clause)
+    License: Apache License, 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+    License: Public Domain  (https://creativecommons.org/publicdomain/zero/1.0/)
+    License: Modified BSD  (https://asm.ow2.io/license.html)
+    License: jQuery license  (jquery.org/license)
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+    License: W3C license  (https://www.w3.org/Consortium/Legal/copyright-documents-19990405)
+
+
+From: 'FasterXML' (http://fasterxml.com/)
+
+  - Jackson-annotations (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - jackson-databind (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson datatype: JSR310 (https://github.com/FasterXML/jackson-modules-java8/jackson-datatype-jsr310) com.fasterxml.jackson.datatype:jackson-datatype-jsr310:bundle:2.18.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson-JAXRS: base (https://github.com/FasterXML/jackson-jaxrs-providers/jackson-jaxrs-base) com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:bundle:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson-JAXRS: JSON (https://github.com/FasterXML/jackson-jaxrs-providers/jackson-jaxrs-json-provider) com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:bundle:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson module: Jakarta XML Bind Annotations (jakarta.xml.bind) (https://github.com/FasterXML/jackson-modules-base) com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations:bundle:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson module: Old JAXB Annotations (javax.xml.bind) (https://github.com/FasterXML/jackson-modules-base) com.fasterxml.jackson.module:jackson-module-jaxb-annotations:bundle:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'GlassFish Community' (https://javaee.github.io/glassfish)
+
+  - javax.annotation API (http://jcp.org/en/jsr/detail?id=250) javax.annotation:javax.annotation-api:jar:1.3.2
+    License: CDDL + GPLv2 with classpath exception  (https://github.com/javaee/javax.annotation/blob/master/LICENSE)
+
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+
+  - Java Architecture for XML Binding (http://jaxb.java.net/) javax.xml.bind:jaxb-api:jar:2.2.12
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+  - SLF4J Simple Provider (http://www.slf4j.org) org.slf4j:slf4j-simple:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+
+
+

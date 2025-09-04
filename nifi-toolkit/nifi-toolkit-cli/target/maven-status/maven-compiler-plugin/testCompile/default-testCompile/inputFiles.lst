@@ -1,0 +1,12 @@
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/NiFiCLIMainRunner.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/TestCLICompleter.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/client/TestClientTimeout.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/command/CommandA.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/command/CommandAResult.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/command/TestCommandProcessor.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/command/registry/tenant/TestTenantHelper.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/result/TestBucketsResult.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/result/TestRegisteredFlowSnapshotMetadataResult.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/result/TestRegistryClientResult.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/result/TestVersionedFlowsResult.java
+/home/mangal/Downloads/nifi/nifi-toolkit/nifi-toolkit-cli/src/test/java/org/apache/nifi/toolkit/cli/impl/result/writer/TestDynamicTableWriter.java

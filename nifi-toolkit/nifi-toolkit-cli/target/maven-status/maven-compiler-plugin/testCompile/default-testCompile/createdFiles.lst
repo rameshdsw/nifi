@@ -1,0 +1,15 @@
+org/apache/nifi/toolkit/cli/impl/result/TestVersionedFlowsResult.class
+org/apache/nifi/toolkit/cli/impl/client/TestClientTimeout.class
+org/apache/nifi/toolkit/cli/impl/result/writer/TestDynamicTableWriter.class
+org/apache/nifi/toolkit/cli/impl/client/TestClientTimeout$1.class
+org/apache/nifi/toolkit/cli/impl/command/TestCommandProcessor.class
+org/apache/nifi/toolkit/cli/impl/result/TestRegisteredFlowSnapshotMetadataResult.class
+org/apache/nifi/toolkit/cli/TestCLICompleter$TestParsedLine.class
+org/apache/nifi/toolkit/cli/impl/command/CommandAResult$1.class
+org/apache/nifi/toolkit/cli/impl/command/registry/tenant/TestTenantHelper.class
+org/apache/nifi/toolkit/cli/impl/command/CommandA.class
+org/apache/nifi/toolkit/cli/impl/command/CommandAResult.class
+org/apache/nifi/toolkit/cli/TestCLICompleter.class
+org/apache/nifi/toolkit/cli/impl/result/TestRegistryClientResult.class
+org/apache/nifi/toolkit/cli/impl/result/TestBucketsResult.class
+org/apache/nifi/toolkit/cli/NiFiCLIMainRunner.class
