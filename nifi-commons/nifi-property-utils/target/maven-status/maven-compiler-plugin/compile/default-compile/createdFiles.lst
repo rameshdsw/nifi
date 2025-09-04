@@ -1,0 +1,6 @@
+org/apache/nifi/properties/BootstrapProperties.class
+org/apache/nifi/properties/AbstractBootstrapPropertiesLoader.class
+org/apache/nifi/properties/ReadableProperties.class
+org/apache/nifi/properties/StandardReadableProperties.class
+org/apache/nifi/util/StringUtils.class
+org/apache/nifi/properties/ApplicationProperties.class

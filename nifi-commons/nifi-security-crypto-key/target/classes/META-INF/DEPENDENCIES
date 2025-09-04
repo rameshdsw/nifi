@@ -1,0 +1,17 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-security-crypto-key
+
+
+From: 'an unknown organization'
+
+  - Bouncy Castle Provider (https://www.bouncycastle.org/download/bouncy-castle-java/) org.bouncycastle:bcprov-jdk18on:jar:1.80
+    License: Bouncy Castle Licence  (https://www.bouncycastle.org/licence.html)
+
+
+
+
+

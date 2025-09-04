@@ -1,0 +1,3 @@
+org/apache/nifi/security/cert/StandardPeerIdentityProviderTest.class
+org/apache/nifi/security/cert/StandardPrincipalFormatterTest.class
+org/apache/nifi/security/cert/StandardCertificateAttributeReaderTest.class

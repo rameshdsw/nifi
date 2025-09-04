@@ -1,0 +1,9 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/EphemeralKeyStoreBuilderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/PemCertificateKeyStoreBuilderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/PemPrivateKeyCertificateKeyStoreBuilderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/StandardKeyStoreBuilderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/StandardPemCertificateReaderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/StandardPemPrivateKeyReaderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/StandardSslContextBuilderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/StandardX509ExtendedKeyManagerTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-ssl/src/test/java/org/apache/nifi/security/ssl/StandardX509ExtendedTrustManagerTest.java

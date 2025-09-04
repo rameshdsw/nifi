@@ -1,0 +1,2 @@
+org/apache/nifi/vault/hashicorp/TestStandardHashiCorpVaultCommunicationService.class
+org/apache/nifi/vault/hashicorp/TestHashiCorpVaultConfiguration.class

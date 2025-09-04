@@ -1,0 +1,2 @@
+org/apache/nifi/security/krb/KerberosLoginException.class
+org/apache/nifi/security/krb/KerberosUser.class

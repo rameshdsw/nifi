@@ -1,0 +1,4 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-kubernetes-client/src/main/java/org/apache/nifi/kubernetes/client/KubernetesClientProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-kubernetes-client/src/main/java/org/apache/nifi/kubernetes/client/NamespaceProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-kubernetes-client/src/main/java/org/apache/nifi/kubernetes/client/ServiceAccountNamespaceProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-kubernetes-client/src/main/java/org/apache/nifi/kubernetes/client/StandardKubernetesClientProvider.java

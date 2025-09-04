@@ -1,0 +1,122 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-kubernetes-client
+
+
+From: 'an unknown organization'
+
+  - SnakeYAML Engine (https://bitbucket.org/snakeyaml/snakeyaml-engine) org.snakeyaml:snakeyaml-engine:bundle:2.9
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - SnakeYAML (https://bitbucket.org/snakeyaml/snakeyaml) org.yaml:snakeyaml:bundle:2.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'FasterXML' (http://fasterxml.com/)
+
+  - Jackson-annotations (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - jackson-databind (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.18.3
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson datatype: JSR310 (https://github.com/FasterXML/jackson-modules-java8/jackson-datatype-jsr310) com.fasterxml.jackson.datatype:jackson-datatype-jsr310:bundle:2.18.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'GlassFish Community' (https://javaee.github.io/glassfish)
+
+  - javax.annotation API (http://jcp.org/en/jsr/detail?id=250) javax.annotation:javax.annotation-api:jar:1.3.2
+    License: CDDL + GPLv2 with classpath exception  (https://github.com/javaee/javax.annotation/blob/master/LICENSE)
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+From: 'Red Hat' (https://redhat.com)
+
+  - Fabric8 :: Kubernetes :: Java Client API (https://github.com/fabric8io/kubernetes-client/kubernetes-client-api) io.fabric8:kubernetes-client-api:jar:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Admission Registration, Authentication and Authorization (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-admissionregistration) io.fabric8:kubernetes-model-admissionregistration:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: API Extensions (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-apiextensions) io.fabric8:kubernetes-model-apiextensions:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Apps (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-apps) io.fabric8:kubernetes-model-apps:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Autoscaling (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-autoscaling) io.fabric8:kubernetes-model-autoscaling:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Batch (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-batch) io.fabric8:kubernetes-model-batch:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Certificates (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-certificates) io.fabric8:kubernetes-model-certificates:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Common (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-common) io.fabric8:kubernetes-model-common:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Coordination (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-coordination) io.fabric8:kubernetes-model-coordination:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Core (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-core) io.fabric8:kubernetes-model-core:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Discovery (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-discovery) io.fabric8:kubernetes-model-discovery:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Events (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-events) io.fabric8:kubernetes-model-events:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Extensions (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-extensions) io.fabric8:kubernetes-model-extensions:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: FlowControl (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-flowcontrol) io.fabric8:kubernetes-model-flowcontrol:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Sigs :: Gateway API (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-gatewayapi) io.fabric8:kubernetes-model-gatewayapi:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Metrics (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-metrics) io.fabric8:kubernetes-model-metrics:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Networking (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-networking) io.fabric8:kubernetes-model-networking:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Node (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-node) io.fabric8:kubernetes-model-node:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Policy (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-policy) io.fabric8:kubernetes-model-policy:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: RBAC (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-rbac) io.fabric8:kubernetes-model-rbac:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Resource (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-resource) io.fabric8:kubernetes-model-resource:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Scheduling (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-scheduling) io.fabric8:kubernetes-model-scheduling:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Fabric8 :: Kubernetes Model :: Storage Class (https://github.com/fabric8io/kubernetes-client/kubernetes-model-generator/kubernetes-model-storageclass) io.fabric8:kubernetes-model-storageclass:bundle:7.1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
+

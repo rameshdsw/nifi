@@ -1,0 +1,2 @@
+org/apache/nifi/encrypt/KeyedCipherPropertyEncryptorTest.class
+org/apache/nifi/encrypt/StandardPropertySecretKeyProviderTest.class

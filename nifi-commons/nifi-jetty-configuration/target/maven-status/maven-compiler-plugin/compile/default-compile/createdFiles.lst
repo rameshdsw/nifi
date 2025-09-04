@@ -1,0 +1,3 @@
+org/apache/nifi/jetty/configuration/connector/StandardServerConnectorFactory.class
+org/apache/nifi/jetty/configuration/connector/ServerConnectorFactory.class
+org/apache/nifi/jetty/configuration/connector/ApplicationLayerProtocol.class

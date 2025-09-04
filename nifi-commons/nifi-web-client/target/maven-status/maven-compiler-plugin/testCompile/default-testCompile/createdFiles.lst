@@ -1,0 +1,2 @@
+org/apache/nifi/web/client/StandardWebClientServiceTest.class
+org/apache/nifi/web/client/StandardHttpUriBuilderTest.class

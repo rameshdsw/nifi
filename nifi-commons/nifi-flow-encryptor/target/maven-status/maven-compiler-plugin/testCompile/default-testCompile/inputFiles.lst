@@ -1,0 +1,4 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-flow-encryptor/src/test/java/org/apache/nifi/flow/encryptor/JsonFlowEncryptorTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-flow-encryptor/src/test/java/org/apache/nifi/flow/encryptor/command/FlowEncryptorCommandTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-flow-encryptor/src/test/java/org/apache/nifi/flow/encryptor/command/SetSensitivePropertiesAlgorithmTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-flow-encryptor/src/test/java/org/apache/nifi/flow/encryptor/command/SetSensitivePropertiesKeyTest.java

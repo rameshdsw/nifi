@@ -1,0 +1,7 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/client/TestSiteInfoProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/client/socket/StandardSocketPeerIdentityProviderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/protocol/SiteToSiteTestUtils.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/protocol/http/TestHttpClientTransaction.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/protocol/socket/TestSocketClientTransaction.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/util/TestExtendTransactionCommand.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-site-to-site-client/src/test/java/org/apache/nifi/remote/util/TestSiteToSiteRestApiClient.java

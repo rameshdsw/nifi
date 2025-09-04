@@ -1,0 +1,7 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/ResourceProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/parsers/StandardDocumentProviderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/sax/StandardInputSourceParserTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/stream/StandardXMLEventReaderProviderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/stream/StandardXMLStreamReaderProviderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/transform/StandardTransformProviderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-xml-processing/src/test/java/org/apache/nifi/xml/processing/validation/StandardSchemaValidatorTest.java

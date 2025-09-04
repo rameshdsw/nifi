@@ -1,0 +1,10 @@
+org/apache/nifi/security/ssl/StandardKeyStoreBuilderTest.class
+org/apache/nifi/security/ssl/StandardSslContextBuilderTest.class
+org/apache/nifi/security/ssl/PemCertificateKeyStoreBuilderTest.class
+org/apache/nifi/security/ssl/EphemeralKeyStoreBuilderTest.class
+org/apache/nifi/security/ssl/StandardPemCertificateReaderTest.class
+org/apache/nifi/security/ssl/StandardPemPrivateKeyReaderTest.class
+org/apache/nifi/security/ssl/StandardSslContextBuilderTest$1.class
+org/apache/nifi/security/ssl/PemPrivateKeyCertificateKeyStoreBuilderTest.class
+org/apache/nifi/security/ssl/StandardX509ExtendedTrustManagerTest.class
+org/apache/nifi/security/ssl/StandardX509ExtendedKeyManagerTest.class

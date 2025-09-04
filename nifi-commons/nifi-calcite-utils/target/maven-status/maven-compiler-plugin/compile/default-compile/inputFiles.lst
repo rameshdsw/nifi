@@ -1,0 +1,15 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/ArrayType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/CalciteDatabase.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/ColumnSchema.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/ColumnType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/IterableRowStream.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/MapType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/NiFiTable.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/NiFiTableSchema.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/ResettableDataSource.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/RowStream.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/ScalarType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/internal/CalciteTable.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/internal/NiFiProjectTableScanRule.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/internal/NiFiTableEnumerator.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-calcite-utils/src/main/java/org/apache/nifi/sql/internal/NiFiTableScan.java

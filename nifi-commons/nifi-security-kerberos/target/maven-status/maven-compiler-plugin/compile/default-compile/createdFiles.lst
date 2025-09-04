@@ -1,0 +1,10 @@
+org/apache/nifi/security/krb/PasswordConfiguration.class
+org/apache/nifi/security/krb/UsernamePasswordCallbackHandler.class
+org/apache/nifi/security/krb/KerberosPasswordUser.class
+org/apache/nifi/security/krb/KerberosTicketCacheUser.class
+org/apache/nifi/security/krb/TicketCacheConfiguration.class
+org/apache/nifi/security/krb/AbstractKerberosUser.class
+org/apache/nifi/security/krb/ConfigurationUtil.class
+org/apache/nifi/security/krb/KeytabConfiguration.class
+org/apache/nifi/security/krb/KerberosKeytabUser.class
+org/apache/nifi/security/krb/KerberosAction.class

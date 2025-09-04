@@ -1,0 +1,8 @@
+org/apache/nifi/remote/protocol/http/TestHttpClientTransaction$1.class
+org/apache/nifi/remote/util/TestSiteToSiteRestApiClient.class
+org/apache/nifi/remote/protocol/SiteToSiteTestUtils.class
+org/apache/nifi/remote/util/TestExtendTransactionCommand.class
+org/apache/nifi/remote/protocol/http/TestHttpClientTransaction.class
+org/apache/nifi/remote/client/socket/StandardSocketPeerIdentityProviderTest.class
+org/apache/nifi/remote/protocol/socket/TestSocketClientTransaction.class
+org/apache/nifi/remote/client/TestSiteInfoProvider.class

@@ -1,0 +1,4 @@
+org/apache/nifi/flow/encryptor/command/SetSensitivePropertiesKeyTest.class
+org/apache/nifi/flow/encryptor/command/SetSensitivePropertiesAlgorithmTest.class
+org/apache/nifi/flow/encryptor/JsonFlowEncryptorTest.class
+org/apache/nifi/flow/encryptor/command/FlowEncryptorCommandTest.class

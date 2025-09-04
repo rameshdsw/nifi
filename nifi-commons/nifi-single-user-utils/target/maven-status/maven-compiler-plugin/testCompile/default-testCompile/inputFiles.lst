@@ -1,0 +1,3 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-single-user-utils/src/test/java/org/apache/nifi/authentication/single/user/command/SetSingleUserCredentialsTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-single-user-utils/src/test/java/org/apache/nifi/authentication/single/user/encoder/BCryptPasswordEncoderTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-single-user-utils/src/test/java/org/apache/nifi/authentication/single/user/writer/StandardLoginCredentialsWriterTest.java

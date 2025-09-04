@@ -1,0 +1,12 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/AbstractParameterParser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/EscapedParameterReference.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ExpressionLanguageAgnosticParameterParser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ExpressionLanguageAwareParameterParser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ParameterLookup.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ParameterParser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ParameterReference.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ParameterToken.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/ParameterTokenList.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/StandardParameterReference.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/StandardParameterTokenList.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-parameter/src/main/java/org/apache/nifi/parameter/StartCharacterEscape.java

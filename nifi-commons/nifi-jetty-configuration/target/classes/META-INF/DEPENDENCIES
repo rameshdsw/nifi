@@ -1,0 +1,56 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-jetty-configuration
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+From: 'Webtide' (https://webtide.com)
+
+  - Core :: ALPN :: Server (https://jetty.org/jetty-core/jetty-alpn/jetty-alpn-server) org.eclipse.jetty:jetty-alpn-server:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: HTTP (https://jetty.org/jetty-core/jetty-http) org.eclipse.jetty:jetty-http:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: IO (https://jetty.org/jetty-core/jetty-io) org.eclipse.jetty:jetty-io:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: Rewrite (https://jetty.org/jetty-core/jetty-rewrite) org.eclipse.jetty:jetty-rewrite:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: Server (https://jetty.org/jetty-core/jetty-server) org.eclipse.jetty:jetty-server:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: Utilities (https://jetty.org/jetty-core/jetty-util) org.eclipse.jetty:jetty-util:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: HTTP2 :: Common (https://jetty.org/jetty-core/jetty-http2/jetty-http2-common) org.eclipse.jetty.http2:jetty-http2-common:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: HTTP2 :: HPACK (https://jetty.org/jetty-core/jetty-http2/jetty-http2-hpack) org.eclipse.jetty.http2:jetty-http2-hpack:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Core :: HTTP2 :: Server (https://jetty.org/jetty-core/jetty-http2/jetty-http2-server) org.eclipse.jetty.http2:jetty-http2-server:jar:12.0.19
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+

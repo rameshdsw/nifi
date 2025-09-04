@@ -1,0 +1,5 @@
+org/apache/nifi/web/servlet/shared/RequestUriBuilder.class
+org/apache/nifi/web/servlet/shared/StandardRequestUriProvider.class
+org/apache/nifi/web/servlet/shared/ProxyHeader.class
+org/apache/nifi/web/servlet/filter/QueryStringToFragmentFilter.class
+org/apache/nifi/web/servlet/shared/RequestUriProvider.class

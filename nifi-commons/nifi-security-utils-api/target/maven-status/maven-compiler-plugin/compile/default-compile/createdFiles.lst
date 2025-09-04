@@ -1,0 +1,5 @@
+org/apache/nifi/security/util/KeystoreType.class
+org/apache/nifi/security/util/TlsConfiguration.class
+org/apache/nifi/security/util/ClientAuth.class
+org/apache/nifi/security/util/TlsPlatform.class
+org/apache/nifi/security/util/TlsException.class

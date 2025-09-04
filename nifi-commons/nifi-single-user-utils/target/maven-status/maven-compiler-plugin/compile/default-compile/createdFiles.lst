@@ -1,0 +1,6 @@
+org/apache/nifi/authentication/single/user/writer/LoginCredentialsWriter.class
+org/apache/nifi/authentication/single/user/encoder/BCryptPasswordEncoder.class
+org/apache/nifi/authentication/single/user/SingleUserCredentials.class
+org/apache/nifi/authentication/single/user/command/SetSingleUserCredentials.class
+org/apache/nifi/authentication/single/user/encoder/PasswordEncoder.class
+org/apache/nifi/authentication/single/user/writer/StandardLoginCredentialsWriter.class

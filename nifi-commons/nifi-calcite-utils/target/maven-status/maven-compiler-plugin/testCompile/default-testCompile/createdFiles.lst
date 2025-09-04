@@ -1,0 +1,3 @@
+org/apache/nifi/sql/TestCalciteDatabase$ToUpperCase.class
+org/apache/nifi/sql/TestCalciteDatabase.class
+org/apache/nifi/sql/TestCalciteDatabase$ListDataSource.class

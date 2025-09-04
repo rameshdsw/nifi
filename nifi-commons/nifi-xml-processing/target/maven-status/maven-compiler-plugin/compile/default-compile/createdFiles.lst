@@ -1,0 +1,15 @@
+org/apache/nifi/xml/processing/stream/StandardXMLEventReaderProvider.class
+org/apache/nifi/xml/processing/transform/StandardTransformProvider.class
+org/apache/nifi/xml/processing/sax/InputSourceParser.class
+org/apache/nifi/xml/processing/ProcessingException.class
+org/apache/nifi/xml/processing/parsers/StandardDocumentProvider.class
+org/apache/nifi/xml/processing/ProcessingAttribute.class
+org/apache/nifi/xml/processing/stream/XMLEventReaderProvider.class
+org/apache/nifi/xml/processing/parsers/DocumentProvider.class
+org/apache/nifi/xml/processing/validation/SchemaValidator.class
+org/apache/nifi/xml/processing/stream/XMLStreamReaderProvider.class
+org/apache/nifi/xml/processing/sax/StandardInputSourceParser.class
+org/apache/nifi/xml/processing/stream/StandardXMLStreamReaderProvider.class
+org/apache/nifi/xml/processing/ProcessingFeature.class
+org/apache/nifi/xml/processing/validation/StandardSchemaValidator.class
+org/apache/nifi/xml/processing/transform/TransformProvider.class

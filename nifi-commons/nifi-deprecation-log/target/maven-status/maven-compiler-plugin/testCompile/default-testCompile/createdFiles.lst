@@ -1,0 +1,3 @@
+org/apache/nifi/deprecation/log/DeprecationExceptionTest.class
+org/apache/nifi/deprecation/log/StandardDeprecationLoggerTest.class
+org/apache/nifi/deprecation/log/DeprecationLoggerFactoryTest.class

@@ -1,0 +1,4 @@
+org/apache/nifi/metrics/jvm/JvmMetrics.class
+org/apache/nifi/metrics/jvm/JvmMetrics$GarbageCollectorStats.class
+org/apache/nifi/metrics/jvm/JvmMetrics$BufferPoolStats.class
+org/apache/nifi/metrics/jvm/JmxJvmMetrics.class

@@ -1,0 +1,11 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/TestSimpleRecordSchema.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/ResultSetRecordSetTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/TestDataTypeUtils.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/TestMapRecord.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/field/ObjectOffsetDateTimeFieldConverterTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/field/ObjectStringFieldConverterTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/field/ObjectTimeFieldConverterTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/field/ObjectTimestampFieldConverterTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/field/TestObjectLocalDateTimeFieldConverter.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/util/TestDataTypeSet.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record/src/test/java/org/apache/nifi/serialization/record/util/TriFunction.java

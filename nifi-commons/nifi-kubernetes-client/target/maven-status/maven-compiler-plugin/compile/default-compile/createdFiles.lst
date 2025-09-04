@@ -1,0 +1,4 @@
+org/apache/nifi/kubernetes/client/ServiceAccountNamespaceProvider.class
+org/apache/nifi/kubernetes/client/KubernetesClientProvider.class
+org/apache/nifi/kubernetes/client/NamespaceProvider.class
+org/apache/nifi/kubernetes/client/StandardKubernetesClientProvider.class

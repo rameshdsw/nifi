@@ -1,0 +1,17 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpContentType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpEntityHeaders.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpHeaderName.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpRequestBodySpec.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpRequestHeadersSpec.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpRequestMethod.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpRequestUriSpec.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpResponseEntity.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpResponseStatus.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/HttpUriBuilder.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/MediaType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/MultipartFormDataStreamBuilder.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/StandardHttpContentType.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/StandardHttpRequestMethod.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/StandardMultipartFormDataStreamBuilder.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/WebClientService.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client-api/src/main/java/org/apache/nifi/web/client/api/WebClientServiceException.java

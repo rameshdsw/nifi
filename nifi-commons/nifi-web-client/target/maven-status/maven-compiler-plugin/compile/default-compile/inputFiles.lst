@@ -1,0 +1,11 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/StandardHttpEntityHeaders.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/StandardHttpResponseEntity.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/StandardHttpUriBuilder.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/StandardWebClientService.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/proxy/ProxyContext.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/redirect/RedirectHandling.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/ssl/SSLContextProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/ssl/SSLSocketFactoryProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/ssl/StandardSSLContextProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/ssl/StandardSSLSocketFactoryProvider.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-web-client/src/main/java/org/apache/nifi/web/client/ssl/TlsContext.java

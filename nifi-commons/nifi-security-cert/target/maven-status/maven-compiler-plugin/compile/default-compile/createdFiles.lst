@@ -1,0 +1,9 @@
+org/apache/nifi/security/cert/GeneralNameType.class
+org/apache/nifi/security/cert/StandardSubjectAlternativeName.class
+org/apache/nifi/security/cert/SubjectAlternativeName.class
+org/apache/nifi/security/cert/StandardPrincipalFormatter.class
+org/apache/nifi/security/cert/CertificateAttributeReader.class
+org/apache/nifi/security/cert/PrincipalFormatter.class
+org/apache/nifi/security/cert/PeerIdentityProvider.class
+org/apache/nifi/security/cert/StandardPeerIdentityProvider.class
+org/apache/nifi/security/cert/StandardCertificateAttributeReader.class

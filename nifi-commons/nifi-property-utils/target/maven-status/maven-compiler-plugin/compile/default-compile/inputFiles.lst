@@ -1,0 +1,6 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-property-utils/src/main/java/org/apache/nifi/properties/AbstractBootstrapPropertiesLoader.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-property-utils/src/main/java/org/apache/nifi/properties/ApplicationProperties.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-property-utils/src/main/java/org/apache/nifi/properties/BootstrapProperties.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-property-utils/src/main/java/org/apache/nifi/properties/ReadableProperties.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-property-utils/src/main/java/org/apache/nifi/properties/StandardReadableProperties.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-property-utils/src/main/java/org/apache/nifi/util/StringUtils.java

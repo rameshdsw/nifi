@@ -1,0 +1,5 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record-path/src/test/java/org/apache/nifi/record/path/TestRecordFieldRemover.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record-path/src/test/java/org/apache/nifi/record/path/TestRecordPath.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record-path/src/test/java/org/apache/nifi/record/path/util/AbstractWalkerTest.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record-path/src/test/java/org/apache/nifi/record/path/util/TestFieldValueLogicalPathBuilder.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-record-path/src/test/java/org/apache/nifi/record/path/util/TestFieldValueWalker.java

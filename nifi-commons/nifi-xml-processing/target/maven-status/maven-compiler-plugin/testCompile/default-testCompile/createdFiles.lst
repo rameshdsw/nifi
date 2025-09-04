@@ -1,0 +1,7 @@
+org/apache/nifi/xml/processing/sax/StandardInputSourceParserTest.class
+org/apache/nifi/xml/processing/stream/StandardXMLStreamReaderProviderTest.class
+org/apache/nifi/xml/processing/ResourceProvider.class
+org/apache/nifi/xml/processing/parsers/StandardDocumentProviderTest.class
+org/apache/nifi/xml/processing/validation/StandardSchemaValidatorTest.class
+org/apache/nifi/xml/processing/stream/StandardXMLEventReaderProviderTest.class
+org/apache/nifi/xml/processing/transform/StandardTransformProviderTest.class

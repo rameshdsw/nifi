@@ -1,0 +1,15 @@
+org/apache/nifi/web/client/StandardWebClientService$StandardHttpRequestUriSpec.class
+org/apache/nifi/web/client/StandardHttpResponseEntity.class
+org/apache/nifi/web/client/StandardHttpEntityHeaders.class
+org/apache/nifi/web/client/ssl/StandardSSLSocketFactoryProvider.class
+org/apache/nifi/web/client/StandardWebClientService$ProxyPasswordAuthenticator.class
+org/apache/nifi/web/client/ssl/TlsContext.class
+org/apache/nifi/web/client/ssl/SSLContextProvider.class
+org/apache/nifi/web/client/ssl/SSLSocketFactoryProvider.class
+org/apache/nifi/web/client/StandardHttpUriBuilder.class
+org/apache/nifi/web/client/StandardWebClientService$StandardHttpRequestBodySpec$1.class
+org/apache/nifi/web/client/proxy/ProxyContext.class
+org/apache/nifi/web/client/redirect/RedirectHandling.class
+org/apache/nifi/web/client/StandardWebClientService.class
+org/apache/nifi/web/client/StandardWebClientService$StandardHttpRequestBodySpec.class
+org/apache/nifi/web/client/ssl/StandardSSLContextProvider.class

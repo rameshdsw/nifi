@@ -1,0 +1,17 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-web-client
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-web-client-api (https://nifi.apache.org/nifi-commons/nifi-web-client-api) org.apache.nifi:nifi-web-client-api:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+

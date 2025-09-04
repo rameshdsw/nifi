@@ -1,0 +1,10 @@
+org/apache/nifi/security/crypto/key/DerivedKeyParameterSpec.class
+org/apache/nifi/security/crypto/key/argon2/Argon2DerivedKeyProvider.class
+org/apache/nifi/security/crypto/key/DerivedKeySpec.class
+org/apache/nifi/security/crypto/key/DerivedKeyProvider.class
+org/apache/nifi/security/crypto/key/pbkdf2/Pbkdf2DerivedKeyProvider.class
+org/apache/nifi/security/crypto/key/StandardDerivedKeySpec.class
+org/apache/nifi/security/crypto/key/DerivedKey.class
+org/apache/nifi/security/crypto/key/pbkdf2/Pbkdf2DerivedKeyParameterSpec.class
+org/apache/nifi/security/crypto/key/argon2/Argon2DerivedKeyParameterSpec.class
+org/apache/nifi/security/crypto/key/DerivedSecretKey.class

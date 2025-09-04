@@ -1,0 +1,4 @@
+org/apache/nifi/util/NiFiBootstrapPropertiesLoader.class
+org/apache/nifi/util/NiFiBootstrapUtils.class
+org/apache/nifi/util/NiFiProperties.class
+org/apache/nifi/util/NiFiProperties$1.class

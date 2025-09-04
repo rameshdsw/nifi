@@ -1,0 +1,17 @@
+org/apache/nifi/serialization/record/util/TriFunction.class
+org/apache/nifi/serialization/record/ResultSetRecordSetTest$ResultSqlArray.class
+org/apache/nifi/serialization/TestSimpleRecordSchema.class
+org/apache/nifi/serialization/record/TestDataTypeUtils$2.class
+org/apache/nifi/serialization/record/util/TestDataTypeSet.class
+org/apache/nifi/serialization/record/field/ObjectOffsetDateTimeFieldConverterTest.class
+org/apache/nifi/serialization/record/field/TestObjectLocalDateTimeFieldConverter.class
+org/apache/nifi/serialization/record/TestDataTypeUtils$1.class
+org/apache/nifi/serialization/record/ResultSetRecordSetTest$TestColumn.class
+org/apache/nifi/serialization/record/field/ObjectTimeFieldConverterTest.class
+org/apache/nifi/serialization/record/field/ObjectTimestampFieldConverterTest.class
+org/apache/nifi/serialization/record/ResultSetRecordSetTest$ArrayTestData.class
+org/apache/nifi/serialization/record/TestMapRecord.class
+org/apache/nifi/serialization/record/field/ObjectStringFieldConverterTest.class
+org/apache/nifi/serialization/record/ResultSetRecordSetTest.class
+org/apache/nifi/serialization/record/ResultSetRecordSetTest$ResultBigDecimal.class
+org/apache/nifi/serialization/record/TestDataTypeUtils.class

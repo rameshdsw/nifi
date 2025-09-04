@@ -1,0 +1,6 @@
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-kerberos/src/test/java/org/apache/nifi/security/krb/KDCServer.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-kerberos/src/test/java/org/apache/nifi/security/krb/KerberosUserIT.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-kerberos/src/test/java/org/apache/nifi/security/krb/TestKerberosKeytabUser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-kerberos/src/test/java/org/apache/nifi/security/krb/TestKerberosPasswordUser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-kerberos/src/test/java/org/apache/nifi/security/krb/TestKerberosTicketCacheUser.java
+/home/mangal/Downloads/nifi/nifi-commons/nifi-security-kerberos/src/test/java/org/apache/nifi/security/krb/TestKeytabConfiguration.java

@@ -1,0 +1,2 @@
+org/apache/nifi/kubernetes/client/StandardKubernetesClientProviderTest.class
+org/apache/nifi/kubernetes/client/ServiceAccountNamespaceProviderTest.class

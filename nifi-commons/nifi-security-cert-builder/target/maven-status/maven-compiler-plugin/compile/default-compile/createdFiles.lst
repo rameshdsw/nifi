@@ -1,0 +1,2 @@
+org/apache/nifi/security/cert/builder/CertificateBuilder.class
+org/apache/nifi/security/cert/builder/StandardCertificateBuilder.class

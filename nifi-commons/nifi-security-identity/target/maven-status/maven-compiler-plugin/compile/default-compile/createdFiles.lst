@@ -1,0 +1,3 @@
+org/apache/nifi/authorization/util/IdentityMapping.class
+org/apache/nifi/authorization/util/IdentityMappingUtil.class
+org/apache/nifi/authorization/util/IdentityMapping$Transform.class

@@ -1,0 +1,6 @@
+org/apache/nifi/security/krb/TestKerberosTicketCacheUser.class
+org/apache/nifi/security/krb/TestKerberosPasswordUser.class
+org/apache/nifi/security/krb/KerberosUserIT.class
+org/apache/nifi/security/krb/TestKerberosKeytabUser.class
+org/apache/nifi/security/krb/TestKeytabConfiguration.class
+org/apache/nifi/security/krb/KDCServer.class
