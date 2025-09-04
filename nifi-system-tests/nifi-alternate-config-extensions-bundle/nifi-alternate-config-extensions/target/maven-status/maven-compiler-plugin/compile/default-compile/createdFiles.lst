@@ -1,0 +1,3 @@
+org/apache/nifi/processors/tests/system/MigrateProperties.class
+org/apache/nifi/reporting/MigrationReportingTask.class
+org/apache/nifi/cs/tests/system/MigrationService.class
