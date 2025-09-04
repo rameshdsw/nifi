@@ -1,0 +1,17 @@
+org/apache/nifi/bootstrap/command/process/VirtualMachineProcessHandleProviderTest.class
+org/apache/nifi/bootstrap/command/ManagementServerBootstrapCommandTest.class
+org/apache/nifi/bootstrap/command/process/StandardProcessBuilderProviderTest.class
+org/apache/nifi/bootstrap/command/StartBootstrapCommandTest.class
+org/apache/nifi/bootstrap/command/process/StandardManagementServerAddressProviderTest.class
+org/apache/nifi/bootstrap/command/process/ProcessHandleManagementServerAddressProviderTest.class
+org/apache/nifi/bootstrap/command/io/StandardBootstrapArgumentParserTest.class
+org/apache/nifi/bootstrap/command/GetRunCommandBootstrapCommandTest.class
+org/apache/nifi/bootstrap/command/ApplicationProcessStatusBootstrapCommandTest.class
+org/apache/nifi/bootstrap/command/RunBootstrapCommandTest.class
+org/apache/nifi/bootstrap/configuration/StandardConfigurationProviderTest.class
+org/apache/nifi/bootstrap/command/io/FileResponseStreamHandlerTest.class
+org/apache/nifi/bootstrap/command/process/StandardProcessHandleProviderTest.class
+org/apache/nifi/bootstrap/process/RuntimeValidatorExecutorTest.class
+org/apache/nifi/bootstrap/property/SecurityApplicationPropertyHandlerTest.class
+org/apache/nifi/bootstrap/command/StandardBootstrapCommandProviderTest.class
+org/apache/nifi/bootstrap/command/StopBootstrapCommandTest.class

@@ -1,0 +1,17 @@
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/ApplicationProcessStatusBootstrapCommandTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/GetRunCommandBootstrapCommandTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/ManagementServerBootstrapCommandTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/RunBootstrapCommandTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/StandardBootstrapCommandProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/StartBootstrapCommandTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/StopBootstrapCommandTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/io/FileResponseStreamHandlerTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/io/StandardBootstrapArgumentParserTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/process/ProcessHandleManagementServerAddressProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/process/StandardManagementServerAddressProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/process/StandardProcessBuilderProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/process/StandardProcessHandleProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/command/process/VirtualMachineProcessHandleProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/configuration/StandardConfigurationProviderTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/process/RuntimeValidatorExecutorTest.java
+/home/mangal/Downloads/nifi/nifi-bootstrap/src/test/java/org/apache/nifi/bootstrap/property/SecurityApplicationPropertyHandlerTest.java

@@ -1,0 +1,35 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-bootstrap
+
+
+From: 'an unknown organization'
+
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (https://www.bouncycastle.org/download/bouncy-castle-java/) org.bouncycastle:bcpkix-jdk18on:jar:1.80
+    License: Bouncy Castle Licence  (https://www.bouncycastle.org/licence.html)
+
+  - Bouncy Castle Provider (https://www.bouncycastle.org/download/bouncy-castle-java/) org.bouncycastle:bcprov-jdk18on:jar:1.80
+    License: Bouncy Castle Licence  (https://www.bouncycastle.org/licence.html)
+
+  - Bouncy Castle ASN.1 Extension and Utility APIs (https://www.bouncycastle.org/download/bouncy-castle-java/) org.bouncycastle:bcutil-jdk18on:jar:1.80
+    License: Bouncy Castle Licence  (https://www.bouncycastle.org/licence.html)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-security-cert-builder (https://nifi.apache.org/nifi-commons/nifi-security-cert-builder) org.apache.nifi:nifi-security-cert-builder:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+
+
+
