@@ -1,0 +1,29 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-system-test-flow-action-reporter
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org)
+
+  - nifi-api (https://nifi.apache.org) org.apache.nifi:nifi-api:jar:2.1.0
+    License: Apache License 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-framework-api (https://nifi.apache.org/nifi-framework-api) org.apache.nifi:nifi-framework-api:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+
+
+
