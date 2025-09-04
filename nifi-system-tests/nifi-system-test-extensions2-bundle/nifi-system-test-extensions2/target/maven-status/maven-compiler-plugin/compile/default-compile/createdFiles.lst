@@ -1,0 +1,2 @@
+org/apache/nifi/cs/tests/system/FakeControllerService2.class
+org/apache/nifi/processors/tests/system/FakeGenericProcessor.class

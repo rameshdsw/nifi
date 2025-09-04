@@ -1,0 +1,4 @@
+org/apache/nifi/cs/tests/system/KeyProviderService.class
+org/apache/nifi/cs/tests/system/CountService.class
+org/apache/nifi/cs/tests/system/SleepService.class
+org/apache/nifi/cs/tests/system/BaseFakeService.class

@@ -1,0 +1,32 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-system-test-extensions-services-nar
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-record (https://nifi.apache.org/nifi-commons/nifi-record) org.apache.nifi:nifi-record:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-record-serialization-service-api (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-services/nifi-record-serialization-service-api) org.apache.nifi:nifi-record-serialization-service-api:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-system-test-extensions-services (https://nifi.apache.org/nifi-system-tests/nifi-system-test-extensions-bundle/nifi-system-test-extensions-services) org.apache.nifi:nifi-system-test-extensions-services:jar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-system-test-extensions-services-api-nar (https://nifi.apache.org/nifi-system-tests/nifi-system-test-extensions-bundle/nifi-system-test-extensions-services-api-nar) org.apache.nifi:nifi-system-test-extensions-services-api-nar:nar:2.4.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:2.0.17
+    License: MIT  (https://opensource.org/license/mit)
+
+
+
+
+

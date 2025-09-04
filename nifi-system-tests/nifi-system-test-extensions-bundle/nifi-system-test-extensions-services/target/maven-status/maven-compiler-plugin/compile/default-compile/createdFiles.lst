@@ -1,0 +1,13 @@
+org/apache/nifi/cs/tests/system/MockCSVWriter.class
+org/apache/nifi/cs/tests/system/StandardSleepService.class
+org/apache/nifi/cs/tests/system/EnsureControllerServiceConfigurationCorrect.class
+org/apache/nifi/cs/tests/system/ClassloaderIsolationKeyProviderService.class
+org/apache/nifi/cs/tests/system/FakeControllerService1.class
+org/apache/nifi/cs/tests/system/MockCSVReader.class
+org/apache/nifi/cs/tests/system/MockCSVWriter$1$1.class
+org/apache/nifi/cs/tests/system/MigrationService.class
+org/apache/nifi/cs/tests/system/SensitiveDynamicPropertiesService.class
+org/apache/nifi/cs/tests/system/MockCSVReader$1.class
+org/apache/nifi/cs/tests/system/StandardCountService.class
+org/apache/nifi/cs/tests/system/LifecycleFailureService.class
+org/apache/nifi/cs/tests/system/MockCSVWriter$1.class
